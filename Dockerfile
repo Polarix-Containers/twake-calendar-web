@@ -1,4 +1,4 @@
-ARG VERSION=exp8
+ARG VERSION=1.0.0-rc2
 
 FROM docker.io/linagora/twake-calendar-web:${VERSION} AS extract
 
